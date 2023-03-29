@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💻 I'm self taught programmer **💻**
 
-- 🌱 I’m currently learning **Flutter, DSA**
+- 🌱 I’m currently learning **Web Development, DSA**
 
 - 📫 How to reach me **Check social links below.**
 
