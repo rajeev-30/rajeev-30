@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💻 I'm a self taught programmer **💻**
 
-- 🌱 I’m currently learning **Web Development, DSA**
+- 🌱 I’m currently learning **DSA & Web Development**
 
 - 📫 Feel free to reach out via <a href="https://linkedin.com/in/rajeev-kumar-a24959226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeev-kumar-a24959226" height="30" width="40" /></a> or email at **rajeevkushwaha1812@gmail.com**
 
